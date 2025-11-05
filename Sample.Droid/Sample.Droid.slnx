@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../RecyclerCalendarLib.Droid/RecyclerCalendarLib.Droid.csproj" />
+  <Project Path="Sample.Droid/Sample.Droid.csproj">
+    <Deploy />
+  </Project>
+</Solution>
